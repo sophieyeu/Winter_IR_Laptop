@@ -49,8 +49,8 @@ public class IR_using_machine_learning_laptop {
 				"/laptop/product", laptop);
 
 
-
-		// create a matching rule
+		
+		// ======================   Create a matching rule - Basic IR methods
 
 		// -- SimpleLogistic
 //		String options[] = new String[] { "-S" };
@@ -61,31 +61,71 @@ public class IR_using_machine_learning_laptop {
 //        options[0] = "-K";
 //        String modelType = "NaiveBayes"; // use a NaiveBayes
 
-		// -- Random forest
-		String options[] = new String[] {"-M", "3.0", "-S", "42"};
-		String modelType = "RandomForest";
 
-		// -- HoeffdingTree
-//		String options[] = new String[] {"-S", "0", "-L", "2"};
-//		String modelType = "HoeffdingTree";
-
-
-		// -- REP Tree
-//		String options[] = new String[] {"-S", "42", "-M", "3.0"};
-//		String modelType = "REPTree";
 
 		// -- AdaBoost
 //       	String options[] = new String[1];
 //        options[0] = "-Q";
 //        String modelType = "AdaBoostM1";
-//
-        WekaMatchingRule<Laptop, Attribute> matchingRule = new WekaMatchingRule<>(0.5, modelType, options);
-		matchingRule.setClassifier(new REPTree());
-        matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_laptop.csv", 1000);
-//
-//
-//		// add comparators
 
+
+
+		// ======================    Unsupervised IR methods
+//
+//		// --  TF-IDF cosine ==== > NEED CODE FOR THIS
+////        String options[] = new String[1];
+////        options[0] = "-K";
+////        String modelType = "TF-IDF cosine"; // use a TF-IDF cosine similarity
+//
+//		// -- Embeddings ==== > NEED CODE FOR THIS
+////        String options[] = new String[1];
+////        options[0] = "-K";
+////        String modelType = "Embeddings"; // use a Embeddings
+//
+//
+//		// -- Domain-specific heuristics ==== > NEED CODE FOR THIS
+////        String options[] = new String[1];
+////        options[0] = "-K";
+////        String modelType = "heuristics"; // use a heuristics
+
+
+		// ======================    Supervised IR methods
+
+		// --  Word weights  --> WEIGHT_SIMILARITY
+//        String options[] = new String[2];
+//        options[0] = "-X";
+//        options[0] = "10";
+//        String modelType = "ibk"; // use a IBK
+
+
+		// -- Decision trees == HoeffdingTree
+//		String options[] = new String[] {"-S", "0", "-L", "2"};
+//		String modelType = "HoeffdingTree";
+
+
+		// -- Decision trees ==  REP Tree
+//		String options[] = new String[] {"-S", "42", "-M", "3.0"};
+//		String modelType = "REPTree";
+
+
+		// -- Random forest
+		String options[] = new String[] {"-M", "3.0", "-S", "42"};
+		String modelType = "RandomForest";
+
+		// --  Deep learning ==== > NEED CODE FOR THIS --- NeuralNetwork????
+//        String options[] = new String[1];
+//        String modelType = "NeuralNetwork"; // use a NeuralNetwork ?????
+
+
+
+
+//
+		WekaMatchingRule<Laptop, Attribute> matchingRule = new WekaMatchingRule<>(0.5, modelType, options);
+		matchingRule.setClassifier(new REPTree());
+		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_dogfood.csv", 1000);
+//
+//
+//		// =============================  add comparators
 //	    matchingRule.addComparator(new LaptopNameComparatorEqual());
 	    matchingRule.addComparator(new LaptopNameComparatorJaccard());
 //	    matchingRule.addComparator(new LaptopNameComparatorJaroWinkler());
