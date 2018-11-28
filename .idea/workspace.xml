@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3501bd95-c7df-47e8-ac77-b665873e017d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ExerciseIdentityResolution$IR_using_machine_learning_games.ic" NAME="IR_using_machine_learning_games Coverage Results" MODIFIED="1542190248622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1815742262">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="csv" value="5" />
+          <entry key="java" value="32" />
+          <entry key="py" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="32" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="646" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="646" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-775087042">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="7" />
+          <entry key="java" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="30" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="110" />
+          <entry key="java" value="443" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="443" />
+          <entry key="PLAIN_TEXT" value="110" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1998337286">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="26" />
+          <entry key="java" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="52" />
+          <entry key="PLAIN_TEXT" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="9" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="9" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1530">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5937#5956#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/input/laptop.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="e#5571#5576#0" expanded="true" />
+                <element signature="e#5888#5893#0" expanded="true" />
+                <element signature="e#174335#174340#0" expanded="true" />
+                <element signature="e#174663#174668#0" expanded="true" />
+                <element signature="e#174963#174968#0" expanded="true" />
+                <element signature="e#175259#175264#0" expanded="true" />
+                <element signature="e#175608#175613#0" expanded="true" />
+                <element signature="e#176498#176503#0" expanded="true" />
+                <element signature="e#177133#177138#0" expanded="true" />
+                <element signature="e#177408#177413#0" expanded="true" />
+                <element signature="e#178806#178811#0" expanded="true" />
+                <element signature="e#179132#179137#0" expanded="true" />
+                <element signature="e#266279#266284#0" expanded="true" />
+                <element signature="e#281620#281625#0" expanded="true" />
+                <element signature="e#287295#287300#0" expanded="true" />
+                <element signature="e#289072#289077#0" expanded="true" />
+                <element signature="e#295289#295294#0" expanded="true" />
+                <element signature="e#295635#295640#0" expanded="true" />
+                <element signature="e#351020#351025#0" expanded="true" />
+                <element signature="e#363675#363680#0" expanded="true" />
+                <element signature="e#490856#490861#0" expanded="true" />
+                <element signature="e#491193#491198#0" expanded="true" />
+                <element signature="e#491571#491576#0" expanded="true" />
+                <element signature="e#491920#491925#0" expanded="true" />
+                <element signature="e#492293#492298#0" expanded="true" />
+                <element signature="e#492668#492673#0" expanded="true" />
+                <element signature="e#492985#492990#0" expanded="true" />
+                <element signature="e#493329#493334#0" expanded="true" />
+                <element signature="e#493705#493710#0" expanded="true" />
+                <element signature="e#494037#494042#0" expanded="true" />
+                <element signature="e#494404#494409#0" expanded="true" />
+                <element signature="e#494772#494777#0" expanded="true" />
+                <element signature="e#495101#495106#0" expanded="true" />
+                <element signature="e#495474#495479#0" expanded="true" />
+                <element signature="e#495810#495815#0" expanded="true" />
+                <element signature="e#496202#496207#0" expanded="true" />
+                <element signature="e#496565#496570#0" expanded="true" />
+                <element signature="e#496951#496956#0" expanded="true" />
+                <element signature="e#497310#497315#0" expanded="true" />
+                <element signature="e#497679#497684#0" expanded="true" />
+                <element signature="e#498066#498071#0" expanded="true" />
+                <element signature="e#498427#498432#0" expanded="true" />
+                <element signature="e#498797#498802#0" expanded="true" />
+                <element signature="e#499158#499163#0" expanded="true" />
+                <element signature="e#499508#499513#0" expanded="true" />
+                <element signature="e#499854#499859#0" expanded="true" />
+                <element signature="e#500215#500220#0" expanded="true" />
+                <element signature="e#500557#500562#0" expanded="true" />
+                <element signature="e#500892#500897#0" expanded="true" />
+                <element signature="e#501239#501244#0" expanded="true" />
+                <element signature="e#501602#501607#0" expanded="true" />
+                <element signature="e#501932#501937#0" expanded="true" />
+                <element signature="e#502280#502285#0" expanded="true" />
+                <element signature="e#502616#502621#0" expanded="true" />
+                <element signature="e#502988#502993#0" expanded="true" />
+                <element signature="e#503349#503354#0" expanded="true" />
+                <element signature="e#503691#503696#0" expanded="true" />
+                <element signature="e#504048#504053#0" expanded="true" />
+                <element signature="e#504415#504420#0" expanded="true" />
+                <element signature="e#504752#504757#0" expanded="true" />
+                <element signature="e#505097#505102#0" expanded="true" />
+                <element signature="e#505467#505472#0" expanded="true" />
+                <element signature="e#505847#505852#0" expanded="true" />
+                <element signature="e#506208#506213#0" expanded="true" />
+                <element signature="e#506541#506546#0" expanded="true" />
+                <element signature="e#506905#506910#0" expanded="true" />
+                <element signature="e#507250#507255#0" expanded="true" />
+                <element signature="e#507576#507581#0" expanded="true" />
+                <element signature="e#507912#507917#0" expanded="true" />
+                <element signature="e#508254#508259#0" expanded="true" />
+                <element signature="e#508590#508595#0" expanded="true" />
+                <element signature="e#508947#508952#0" expanded="true" />
+                <element signature="e#509318#509323#0" expanded="true" />
+                <element signature="e#509675#509680#0" expanded="true" />
+                <element signature="e#510096#510101#0" expanded="true" />
+                <element signature="e#510429#510434#0" expanded="true" />
+                <element signature="e#510793#510798#0" expanded="true" />
+                <element signature="e#511156#511161#0" expanded="true" />
+                <element signature="e#511534#511539#0" expanded="true" />
+                <element signature="e#511914#511919#0" expanded="true" />
+                <element signature="e#512272#512277#0" expanded="true" />
+                <element signature="e#512603#512608#0" expanded="true" />
+                <element signature="e#512939#512944#0" expanded="true" />
+                <element signature="e#513282#513287#0" expanded="true" />
+                <element signature="e#513632#513637#0" expanded="true" />
+                <element signature="e#513976#513981#0" expanded="true" />
+                <element signature="e#514335#514340#0" expanded="true" />
+                <element signature="e#514703#514708#0" expanded="true" />
+                <element signature="e#515046#515051#0" expanded="true" />
+                <element signature="e#515418#515423#0" expanded="true" />
+                <element signature="e#515769#515774#0" expanded="true" />
+                <element signature="e#516119#516124#0" expanded="true" />
+                <element signature="e#516485#516490#0" expanded="true" />
+                <element signature="e#516861#516866#0" expanded="true" />
+                <element signature="e#517188#517193#0" expanded="true" />
+                <element signature="e#517550#517555#0" expanded="true" />
+                <element signature="e#517899#517904#0" expanded="true" />
+                <element signature="e#518241#518246#0" expanded="true" />
+                <element signature="e#518578#518583#0" expanded="true" />
+                <element signature="e#518965#518970#0" expanded="true" />
+                <element signature="e#519329#519334#0" expanded="true" />
+                <element signature="e#519671#519676#0" expanded="true" />
+                <element signature="e#519993#519998#0" expanded="true" />
+                <element signature="e#520774#520779#0" expanded="true" />
+                <element signature="e#521118#521123#0" expanded="true" />
+                <element signature="e#521478#521483#0" expanded="true" />
+                <element signature="e#521847#521852#0" expanded="true" />
+                <element signature="e#522231#522236#0" expanded="true" />
+                <element signature="e#522581#522586#0" expanded="true" />
+                <element signature="e#522911#522916#0" expanded="true" />
+                <element signature="e#523281#523286#0" expanded="true" />
+                <element signature="e#523662#523667#0" expanded="true" />
+                <element signature="e#524006#524011#0" expanded="true" />
+                <element signature="e#524350#524355#0" expanded="true" />
+                <element signature="e#524685#524690#0" expanded="true" />
+                <element signature="e#525015#525020#0" expanded="true" />
+                <element signature="e#525386#525391#0" expanded="true" />
+                <element signature="e#525765#525770#0" expanded="true" />
+                <element signature="e#526106#526111#0" expanded="true" />
+                <element signature="e#526422#526427#0" expanded="true" />
+                <element signature="e#526743#526748#0" expanded="true" />
+                <element signature="e#527087#527092#0" expanded="true" />
+                <element signature="e#527435#527440#0" expanded="true" />
+                <element signature="e#527776#527781#0" expanded="true" />
+                <element signature="e#528223#528228#0" expanded="true" />
+                <element signature="e#529603#529608#0" expanded="true" />
+                <element signature="e#531061#531066#0" expanded="true" />
+                <element signature="e#534309#534314#0" expanded="true" />
+                <element signature="e#536482#536487#0" expanded="true" />
+                <element signature="e#539625#539630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/LaptopXMLReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="83" column="42" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Laptop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorLevenshtein.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkanTfIdf.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/LaptopBlockingKeyByNameGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorJaroWinklerTfIdf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/ErrorAnalysis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="40" column="127" selection-start-line="40" selection-start-column="127" selection-end-line="40" selection-end-column="127" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blok</find>
+      <find>0:00:06.317</find>
+      <find>seed</find>
+      <find>179,898</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/GameBlockingKeyByPlatformNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/GameXMLReader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_VG_DEV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_VG.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/DeveloperXMLReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/ErrorAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorDamerau.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorJaroWinklerTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/DeveloperBlockingKeyByNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Dogfood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/DogfoodXMLReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_DEV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorJaroWinklerTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorLevenshtein.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorJaroWinkler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorJaccard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorEqual.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorSoftTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorMongeElkanTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperComparatorMongeElkan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/DogfoodBlockingKeyByNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_dogfood.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorLevenshtein.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorSoftTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorSoftTfIdf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/LaptopBlockingKeyByNameGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Laptop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="510" />
+    <option name="y" value="180" />
+    <option name="width" value="1285" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="goldstandard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="stopwords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Blocking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Comparators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ExerciseIdentityResolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543433284800" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\Blocking" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\Comparators" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\model" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\data\goldstandard" />
+      <recent name="C:\Users\d058073\Desktop\MA Master\0. WDI with guys\Winter\data\input" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking" />
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution" />
+      <recent name="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\d058073\Desktop\TEAM PROJECT\0. Phase 2\Winter_IR_Laptop\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\Comparators" />
+      <recent name="C:\Users\d058073\Desktop\TEAM PROJECT\0. Phase 2\Winter_IR_Laptop_Dogfood\src\main\java\de\uni_mannheim\informatik\dws\wdi\ExerciseIdentityResolution\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="IR_using_machine_learning_games" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_games" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IR_using_machine_learning_games_IGDB_VG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_games_IGDB_VG" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IR_using_machine_learning_games_VG_DEV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_games_VG_DEV" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IR_using_machine_learning_laptop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.IR_using_machine_learning_laptop" />
+      <module name="ExerciseIdentityResolution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IR_using_machine_learning_games" />
+      <item itemvalue="Application.IR_using_machine_learning_laptop" />
+      <item itemvalue="Application.IR_using_machine_learning_games_IGDB_VG" />
+      <item itemvalue="Application.IR_using_machine_learning_games_VG_DEV" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IR_using_machine_learning_laptop" />
+        <item itemvalue="Application.IR_using_machine_learning_games" />
+        <item itemvalue="Application.IR_using_machine_learning_games_IGDB_VG" />
+        <item itemvalue="Application.IR_using_machine_learning_games_VG_DEV" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3501bd95-c7df-47e8-ac77-b665873e017d" name="Default Changelist" comment="" />
+      <created>1541539458308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541539458308</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39007092" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32765958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorEqual.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/Performance.class</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python/test_gs_mc_vg.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/test_gs_igdb_vg.csv" />
+    <entry file="file://$PROJECT_DIR$/data/goldstandard/train_gs_dev_igdb_dev.csv" />
+    <entry file="file://$PROJECT_DIR$/Python/GS_stratified_split.py" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/GameDateComparator2Years.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/GameDateComparator1Years.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/GameNameComparatorLevenshtein.java" />
+    <entry file="file://$PROJECT_DIR$/data/output/igdb_dev_2_dev_correspondences.csv" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/GameBlockingKeyByPlatformNameGenerator.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/algorithms/RuleLearner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/goldstandard/test_igdb_dev_standard.csv" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_VG.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/GameXMLReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_VG_DEV.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_linear_combination.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_linear_combination_games.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DeveloperNameComparatorDamerau.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DamerauSimilarity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorJaroWinkler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/Performance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/Pair.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1287">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorSoftTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorJaccard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/blockers/generators/StaticBlockingKeyGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/blockers/NoBlocker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/matching/MatchingEvaluator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/model/MatchingGoldStandard.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#1273#1274#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/de/uni_mannheim/informatik/dws/winter/1.3/winter-1.3.jar!/de/uni_mannheim/informatik/dws/winter/processing/ProcessableCollection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/AppTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkanTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopNameComparatorLevenshtein.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkanTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorSoftTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorJaroWinklerTfIdf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/LaptopXMLReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="83" column="42" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/ErrorAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="127" selection-start-line="40" selection-start-column="127" selection-end-line="40" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/LaptopBlockingKeyByNameGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="90" selection-start-line="17" selection-start-column="90" selection-end-line="17" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/input/laptop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#5571#5576#0" expanded="true" />
+            <element signature="e#5888#5893#0" expanded="true" />
+            <element signature="e#174335#174340#0" expanded="true" />
+            <element signature="e#174663#174668#0" expanded="true" />
+            <element signature="e#174963#174968#0" expanded="true" />
+            <element signature="e#175259#175264#0" expanded="true" />
+            <element signature="e#175608#175613#0" expanded="true" />
+            <element signature="e#176498#176503#0" expanded="true" />
+            <element signature="e#177133#177138#0" expanded="true" />
+            <element signature="e#177408#177413#0" expanded="true" />
+            <element signature="e#178806#178811#0" expanded="true" />
+            <element signature="e#179132#179137#0" expanded="true" />
+            <element signature="e#266279#266284#0" expanded="true" />
+            <element signature="e#281620#281625#0" expanded="true" />
+            <element signature="e#287295#287300#0" expanded="true" />
+            <element signature="e#289072#289077#0" expanded="true" />
+            <element signature="e#295289#295294#0" expanded="true" />
+            <element signature="e#295635#295640#0" expanded="true" />
+            <element signature="e#351020#351025#0" expanded="true" />
+            <element signature="e#363675#363680#0" expanded="true" />
+            <element signature="e#490856#490861#0" expanded="true" />
+            <element signature="e#491193#491198#0" expanded="true" />
+            <element signature="e#491571#491576#0" expanded="true" />
+            <element signature="e#491920#491925#0" expanded="true" />
+            <element signature="e#492293#492298#0" expanded="true" />
+            <element signature="e#492668#492673#0" expanded="true" />
+            <element signature="e#492985#492990#0" expanded="true" />
+            <element signature="e#493329#493334#0" expanded="true" />
+            <element signature="e#493705#493710#0" expanded="true" />
+            <element signature="e#494037#494042#0" expanded="true" />
+            <element signature="e#494404#494409#0" expanded="true" />
+            <element signature="e#494772#494777#0" expanded="true" />
+            <element signature="e#495101#495106#0" expanded="true" />
+            <element signature="e#495474#495479#0" expanded="true" />
+            <element signature="e#495810#495815#0" expanded="true" />
+            <element signature="e#496202#496207#0" expanded="true" />
+            <element signature="e#496565#496570#0" expanded="true" />
+            <element signature="e#496951#496956#0" expanded="true" />
+            <element signature="e#497310#497315#0" expanded="true" />
+            <element signature="e#497679#497684#0" expanded="true" />
+            <element signature="e#498066#498071#0" expanded="true" />
+            <element signature="e#498427#498432#0" expanded="true" />
+            <element signature="e#498797#498802#0" expanded="true" />
+            <element signature="e#499158#499163#0" expanded="true" />
+            <element signature="e#499508#499513#0" expanded="true" />
+            <element signature="e#499854#499859#0" expanded="true" />
+            <element signature="e#500215#500220#0" expanded="true" />
+            <element signature="e#500557#500562#0" expanded="true" />
+            <element signature="e#500892#500897#0" expanded="true" />
+            <element signature="e#501239#501244#0" expanded="true" />
+            <element signature="e#501602#501607#0" expanded="true" />
+            <element signature="e#501932#501937#0" expanded="true" />
+            <element signature="e#502280#502285#0" expanded="true" />
+            <element signature="e#502616#502621#0" expanded="true" />
+            <element signature="e#502988#502993#0" expanded="true" />
+            <element signature="e#503349#503354#0" expanded="true" />
+            <element signature="e#503691#503696#0" expanded="true" />
+            <element signature="e#504048#504053#0" expanded="true" />
+            <element signature="e#504415#504420#0" expanded="true" />
+            <element signature="e#504752#504757#0" expanded="true" />
+            <element signature="e#505097#505102#0" expanded="true" />
+            <element signature="e#505467#505472#0" expanded="true" />
+            <element signature="e#505847#505852#0" expanded="true" />
+            <element signature="e#506208#506213#0" expanded="true" />
+            <element signature="e#506541#506546#0" expanded="true" />
+            <element signature="e#506905#506910#0" expanded="true" />
+            <element signature="e#507250#507255#0" expanded="true" />
+            <element signature="e#507576#507581#0" expanded="true" />
+            <element signature="e#507912#507917#0" expanded="true" />
+            <element signature="e#508254#508259#0" expanded="true" />
+            <element signature="e#508590#508595#0" expanded="true" />
+            <element signature="e#508947#508952#0" expanded="true" />
+            <element signature="e#509318#509323#0" expanded="true" />
+            <element signature="e#509675#509680#0" expanded="true" />
+            <element signature="e#510096#510101#0" expanded="true" />
+            <element signature="e#510429#510434#0" expanded="true" />
+            <element signature="e#510793#510798#0" expanded="true" />
+            <element signature="e#511156#511161#0" expanded="true" />
+            <element signature="e#511534#511539#0" expanded="true" />
+            <element signature="e#511914#511919#0" expanded="true" />
+            <element signature="e#512272#512277#0" expanded="true" />
+            <element signature="e#512603#512608#0" expanded="true" />
+            <element signature="e#512939#512944#0" expanded="true" />
+            <element signature="e#513282#513287#0" expanded="true" />
+            <element signature="e#513632#513637#0" expanded="true" />
+            <element signature="e#513976#513981#0" expanded="true" />
+            <element signature="e#514335#514340#0" expanded="true" />
+            <element signature="e#514703#514708#0" expanded="true" />
+            <element signature="e#515046#515051#0" expanded="true" />
+            <element signature="e#515418#515423#0" expanded="true" />
+            <element signature="e#515769#515774#0" expanded="true" />
+            <element signature="e#516119#516124#0" expanded="true" />
+            <element signature="e#516485#516490#0" expanded="true" />
+            <element signature="e#516861#516866#0" expanded="true" />
+            <element signature="e#517188#517193#0" expanded="true" />
+            <element signature="e#517550#517555#0" expanded="true" />
+            <element signature="e#517899#517904#0" expanded="true" />
+            <element signature="e#518241#518246#0" expanded="true" />
+            <element signature="e#518578#518583#0" expanded="true" />
+            <element signature="e#518965#518970#0" expanded="true" />
+            <element signature="e#519329#519334#0" expanded="true" />
+            <element signature="e#519671#519676#0" expanded="true" />
+            <element signature="e#519993#519998#0" expanded="true" />
+            <element signature="e#520774#520779#0" expanded="true" />
+            <element signature="e#521118#521123#0" expanded="true" />
+            <element signature="e#521478#521483#0" expanded="true" />
+            <element signature="e#521847#521852#0" expanded="true" />
+            <element signature="e#522231#522236#0" expanded="true" />
+            <element signature="e#522581#522586#0" expanded="true" />
+            <element signature="e#522911#522916#0" expanded="true" />
+            <element signature="e#523281#523286#0" expanded="true" />
+            <element signature="e#523662#523667#0" expanded="true" />
+            <element signature="e#524006#524011#0" expanded="true" />
+            <element signature="e#524350#524355#0" expanded="true" />
+            <element signature="e#524685#524690#0" expanded="true" />
+            <element signature="e#525015#525020#0" expanded="true" />
+            <element signature="e#525386#525391#0" expanded="true" />
+            <element signature="e#525765#525770#0" expanded="true" />
+            <element signature="e#526106#526111#0" expanded="true" />
+            <element signature="e#526422#526427#0" expanded="true" />
+            <element signature="e#526743#526748#0" expanded="true" />
+            <element signature="e#527087#527092#0" expanded="true" />
+            <element signature="e#527435#527440#0" expanded="true" />
+            <element signature="e#527776#527781#0" expanded="true" />
+            <element signature="e#528223#528228#0" expanded="true" />
+            <element signature="e#529603#529608#0" expanded="true" />
+            <element signature="e#531061#531066#0" expanded="true" />
+            <element signature="e#534309#534314#0" expanded="true" />
+            <element signature="e#536482#536487#0" expanded="true" />
+            <element signature="e#539625#539630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1530">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5937#5956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
