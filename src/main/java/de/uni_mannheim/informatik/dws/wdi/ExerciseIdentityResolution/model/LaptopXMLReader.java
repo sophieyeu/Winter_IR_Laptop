@@ -35,17 +35,17 @@ public class LaptopXMLReader extends XMLMatchableReader<Laptop, Attribute> {
     public Laptop createModelFromElement(Node node, String provenanceInfo) {
 
         // create the object with id and provenance information
-        Laptop food = new Laptop(getValueFromChildElement(node, "productid"), provenanceInfo);
+        Laptop electronic = new Laptop(getValueFromChildElement(node, "productid"), provenanceInfo);
 
         // fill the attributes
-        food.setClusterid(getValueFromChildElement(node, "clusterid"));
-        food.setProductname(getValueFromChildElement(node, "productname"));
+        electronic.setClusterid(getValueFromChildElement(node, "clusterid"));
+        electronic.setProductname(getValueFromChildElement(node, "productname"));
 
         String rawSize = getValueFromChildElement(node, "size");
         Integer size = rawSize != null && !rawSize.isEmpty() ? Integer.parseInt(rawSize) : null;
-        food.setSize(size);
+        electronic.setSize(size);
 
-        return food;
+        return electronic;
     }
 
     private String preprocessName(String name) {

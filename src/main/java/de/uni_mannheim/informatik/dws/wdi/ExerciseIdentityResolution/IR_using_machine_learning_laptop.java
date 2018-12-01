@@ -49,7 +49,7 @@ public class IR_using_machine_learning_laptop {
 				"/laptop/product", laptop);
 
 
-		
+
 		// ======================   Create a matching rule - Basic IR methods
 
 		// -- SimpleLogistic
