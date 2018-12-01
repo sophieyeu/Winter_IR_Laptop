@@ -1,5 +1,6 @@
 package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution;
 
+import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.LaptopBlockingKeyByNameGenerator;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.*;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Laptop;
 import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.LaptopXMLReader;
@@ -7,6 +8,7 @@ import de.uni_mannheim.informatik.dws.winter.matching.MatchingEngine;
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEvaluator;
 import de.uni_mannheim.informatik.dws.winter.matching.algorithms.RuleLearner;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.NoBlocker;
+import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.WekaMatchingRule;
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;
 import de.uni_mannheim.informatik.dws.winter.model.HashedDataSet;
@@ -99,8 +101,8 @@ public class IR_using_machine_learning_laptop {
 
 
 		// -- Decision trees == HoeffdingTree
-//		String options[] = new String[] {"-S", "0", "-L", "2"};
-//		String modelType = "HoeffdingTree";
+		String options[] = new String[] {"-S", "0", "-L", "2"};
+		String modelType = "HoeffdingTree";
 
 
 		// -- Decision trees ==  REP Tree
@@ -109,8 +111,8 @@ public class IR_using_machine_learning_laptop {
 
 
 		// -- Random forest
-		String options[] = new String[] {"-M", "3.0", "-S", "42"};
-		String modelType = "RandomForest";
+//		String options[] = new String[] {"-M", "3.0", "-S", "42"};
+//		String modelType = "RandomForest";
 
 		// --  Deep learning ==== > NEED CODE FOR THIS --- NeuralNetwork????
 //        String options[] = new String[1];
@@ -121,7 +123,7 @@ public class IR_using_machine_learning_laptop {
 
 //
 		WekaMatchingRule<Laptop, Attribute> matchingRule = new WekaMatchingRule<>(0.5, modelType, options);
-		matchingRule.setClassifier(new REPTree());
+//		matchingRule.setClassifier(new REPTree());
 		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_dogfood.csv", 1000);
 //
 //
@@ -152,10 +154,10 @@ public class IR_using_machine_learning_laptop {
 		learner.learnMatchingRule(laptop, laptop, null, matchingRule, gsTraining);
 		System.out.println(String.format("Matching rule is:\n%s", matchingRule.getModelDescription()));
 //
-//		 create a blocker (blocking strategy)
-//		StandardRecordBlocker<laptop, Attribute> blocker = new StandardRecordBlocker<Laptop, Attribute>(new LaptopBlockingKeyByNameGenerator());
+//		create a blocker (blocking strategy)
+		StandardRecordBlocker<Laptop, Attribute> blocker = new StandardRecordBlocker<Laptop, Attribute>(new LaptopBlockingKeyByNameGenerator());
 //		SortedNeighbourhoodBlocker<laptop, Attribute, Attribute> blocker = new SortedNeighbourhoodBlocker<>(new GameBlockingKeyByPlatformNameGenerator(), 15);
-		NoBlocker blocker = new NoBlocker();
+//		NoBlocker blocker = new NoBlocker();
 		blocker.collectBlockSizeData("data/output/debugResultsBlocking_laptop.csv", 100);
 //
 //		// Initialize Matching Engine

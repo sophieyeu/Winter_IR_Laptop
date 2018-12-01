@@ -17,9 +17,9 @@ public class LaptopBlockingKeyByNameGenerator extends
     public void generateBlockingKeys(Laptop record, Processable<Correspondence<Attribute, Matchable>> correspondences,
                                      DataIterator<Pair<String, Laptop>> resultCollector) {
 
-        String blockingKeyValue = record.getProductid();
+        String blockingKeyValue = record.getProductname();
 
-//        String blockingKeyValue = devName.substring(0, Math.min(2, devName.length())).toUpperCase();
+        blockingKeyValue = blockingKeyValue.substring(0, Math.min(5, blockingKeyValue.length())).toUpperCase();
 
         resultCollector.next(new Pair<>(blockingKeyValue, record));
     }
