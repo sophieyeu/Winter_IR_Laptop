@@ -5,8 +5,15 @@ import de.uni_mannheim.informatik.dws.winter.model.Matchable;
 public class Laptop implements Matchable {
 
     protected Integer size;
+    protected String gtin;
+    protected String mpn;
+    protected String sku;
     protected String clusterid;
     private String productid;
+    protected String brand;
+    protected String description;
+    protected Double price;
+    protected String currency;
     private String productname;
     private String provenance;
 
@@ -20,6 +27,62 @@ public class Laptop implements Matchable {
         return String.format("[Laptop %s: %s / %s / %s]", getIdentifier(), getProductname(),
                 getClusterid(), getSize());
     }
+
+    public String getGtin() {
+        return gtin;
+    }
+
+    public void setGtin(String gtin) {
+        this.gtin = gtin;
+    }
+
+    public String getMpn() {
+        return mpn;
+    }
+
+    public void setMpn(String mpn) {
+        this.mpn = mpn;
+    }
+
+    public String getSku() {
+        return sku;
+    }
+
+    public void setSku(String sku) {
+        this.sku = sku;
+    }
+    public String getBrand() {
+        return brand;
+    }
+
+    public void setBrand(String brand) {
+        this.brand = brand;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public Double getPrice() {
+        return price;
+    }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    public String getCurrency() {
+        return currency;
+    }
+
+    public void setCurrency(String currency) {
+        this.currency = currency;
+    }
+
 
     @Override
     public int hashCode() {
