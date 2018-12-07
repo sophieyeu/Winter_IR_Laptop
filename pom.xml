@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.uni_mannheim.informatik.dws.wdi</groupId>
-	<artifactId>ExerciseIdentityResolution</artifactId>
+	<artifactId>Winter_IR_Laptop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ExerciseIdentityResolution</name>
+	<name>Winter_IR_Laptop</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
