@@ -105,43 +105,62 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="26" />
-          <entry key="java" value="236" />
+          <entry key="java" value="308" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="236" />
+          <entry key="JAVA" value="308" />
           <entry key="PLAIN_TEXT" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="11" />
+          <entry key="class" value="2" />
+          <entry key="java" value="12" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="11" />
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="12" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-850">
-              <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+            <state relative-caret-position="223">
+              <caret line="120" column="56" lean-forward="true" selection-start-line="120" selection-start-column="56" selection-end-line="120" selection-end-column="56" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#5905#5924#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/math/FloatingDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="2044" column="39" selection-start-line="2044" selection-start-column="39" selection-end-line="2044" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -155,11 +174,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/LaptopXMLReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="64" lean-forward="true" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+            <state relative-caret-position="316">
+              <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -173,7 +192,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Laptop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+              <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
               <folding>
                 <element signature="e#910#911#0" expanded="true" />
                 <element signature="e#936#937#0" expanded="true" />
@@ -233,20 +252,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkan.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkanTfIdf.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/LaptopBlockingKeyByNameGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="332">
@@ -263,15 +268,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
               <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/ErrorAnalysis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="40" column="127" selection-start-line="40" selection-start-column="127" selection-end-line="40" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -320,10 +316,10 @@
         <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorMongeElkan.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/DogfoodComparatorSoftTfIdf.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Comparators/LaptopComparatorSoftTfIdf.java" />
-        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/Blocking/LaptopBlockingKeyByNameGenerator.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Laptop.java" />
         <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/LaptopXMLReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java" />
       </list>
     </option>
   </component>
@@ -335,10 +331,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="510" />
-    <option name="y" value="180" />
-    <option name="width" value="1285" />
-    <option name="height" value="730" />
+    <option name="x" value="326" />
+    <option name="y" value="116" />
+    <option name="width" value="1028" />
+    <option name="height" value="584" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -488,21 +484,6 @@
               <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
               <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="de" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="de" type="462c0819:PsiDirectoryNode" />
-              <item name="uni_mannheim" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Winter_IR_Laptop" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -511,6 +492,28 @@
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.wcohen.ss:secondstring:20120620" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.wcohen.ss:secondstring:20120620" type="70bed36:NamedLibraryElementNode" />
+              <item name="secondstring-20120620.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseIdentityResolution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.wcohen.ss:secondstring:20120620" type="70bed36:NamedLibraryElementNode" />
+              <item name="secondstring-20120620.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="ss" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -518,7 +521,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544054520436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544141897137" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Winter_IR_Dogfood" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -641,7 +644,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18791947" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -650,7 +653,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30780143" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34042552" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39007092" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -689,7 +692,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java</url>
-          <line>143</line>
+          <line>145</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
@@ -719,7 +722,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java</url>
-          <line>156</line>
+          <line>158</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -744,13 +747,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/goldstandard/test_igdb_dev_standard.csv" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_IGDB_VG.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/GameXMLReader.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_games_VG_DEV.java" />
@@ -894,7 +890,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/Laptop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="126" column="25" lean-forward="true" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
+          <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
           <folding>
             <element signature="e#910#911#0" expanded="true" />
             <element signature="e#936#937#0" expanded="true" />
@@ -952,20 +948,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/jdk/internal/math/FloatingDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
-          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-          <folding>
-            <element signature="e#5905#5924#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1">
+          <caret line="2044" column="39" selection-start-line="2044" selection-start-column="39" selection-end-line="2044" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/model/LaptopXMLReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="64" lean-forward="true" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        <state relative-caret-position="316">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/wcohen/ss/secondstring/20120620/secondstring-20120620.jar!/com/wcohen/ss/TFIDF.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1445">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/de/uni_mannheim/informatik/dws/wdi/ExerciseIdentityResolution/IR_using_machine_learning_laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="120" column="56" lean-forward="true" selection-start-line="120" selection-start-column="56" selection-end-line="120" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5905#5924#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -100,30 +100,32 @@ public class IR_using_machine_learning_laptop {
 //        String modelType = "ibk"; // use a IBK
 
 
-		// -- Decision trees == HoeffdingTree
-		String options[] = new String[] {"-S", "0", "-L", "2"};
-		String modelType = "HoeffdingTree";
+//		// -- Decision trees == HoeffdingTree
+//		String options[] = new String[] {"-S", "0", "-L", "2"};
+//		String modelType = "HoeffdingTree";
 
 
 		// -- Decision trees ==  REP Tree
-//		String options[] = new String[] {"-S", "42", "-M", "3.0"};
-//		String modelType = "REPTree";
+		String options[] = new String[] {"-S", "42", "-M", "3.0"};
+		String modelType = "REPTree";
 
 
 		// -- Random forest
 //		String options[] = new String[] {"-M", "3.0", "-S", "42"};
 //		String modelType = "RandomForest";
 
-		// --  Deep learning ==== > NEED CODE FOR THIS --- NeuralNetwork????
-//        String options[] = new String[1];
-//        String modelType = "NeuralNetwork"; // use a NeuralNetwork ?????
+
+		// --  Deep learning == MultilayerPerceptron
+//        String options[] = new String[] {"-S", "42", "-G"};
+//        String options[] = new String[] {"-S", "42", "-N", "500", "-H", "4,3,2"};
+//        String modelType = "MultilayerPerceptron"; //
 
 
 
 
 //
 		WekaMatchingRule<Laptop, Attribute> matchingRule = new WekaMatchingRule<>(0.5, modelType, options);
-//		matchingRule.setClassifier(new REPTree());
+		matchingRule.setClassifier(new REPTree());
 		matchingRule.activateDebugReport("data/output/debugResultsMatchingRule_dogfood.csv", 1000);
 //
 //
@@ -132,10 +134,10 @@ public class IR_using_machine_learning_laptop {
 	    matchingRule.addComparator(new LaptopNameComparatorJaccard());
 //	    matchingRule.addComparator(new LaptopNameComparatorJaroWinkler());
 //	    matchingRule.addComparator(new LaptopNameComparatorLevenshtein());
-//		matchingRule.addComparator(new LaptopComparatorJaroWinklerTfIdf());
+		matchingRule.addComparator(new LaptopComparatorJaroWinklerTfIdf());
 		matchingRule.addComparator(new LaptopComparatorMongeElkan());
 		matchingRule.addComparator(new LaptopComparatorMongeElkanTfIdf());
-//		matchingRule.addComparator(new LaptopComparatorSoftTfIdf());
+		matchingRule.addComparator(new LaptopComparatorSoftTfIdf());
 
 ////
 //        // Adding CrossValidation?
