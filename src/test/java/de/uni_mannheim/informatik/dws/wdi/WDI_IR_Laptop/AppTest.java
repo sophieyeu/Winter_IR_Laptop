@@ -1,4 +1,4 @@
-package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution;
+package de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

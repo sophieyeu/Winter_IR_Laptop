@@ -1,9 +1,9 @@
-package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution;
+package de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Laptop;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.model.Laptop;
 import org.apache.logging.log4j.Logger;
 
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;

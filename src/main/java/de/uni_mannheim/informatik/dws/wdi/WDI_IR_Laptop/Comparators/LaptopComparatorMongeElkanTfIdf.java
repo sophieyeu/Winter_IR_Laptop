@@ -9,20 +9,20 @@
  * Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and limitations under the License.
  */
-package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators;
+package de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.Comparators;
 
-import com.wcohen.ss.MongeElkan;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Laptop;
+import com.wcohen.ss.MongeElkanTFIDF;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.model.Laptop;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.Comparator;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.ComparatorLogger;
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;
 import de.uni_mannheim.informatik.dws.winter.model.Matchable;
 import de.uni_mannheim.informatik.dws.winter.model.defaultmodel.Attribute;
 
-public class LaptopComparatorMongeElkan implements Comparator<Laptop, Attribute> {
+public class LaptopComparatorMongeElkanTfIdf implements Comparator<Laptop, Attribute> {
 
     private static final long serialVersionUID = 1L;
-    private MongeElkan sim = new MongeElkan();
+    private MongeElkanTFIDF sim = new MongeElkanTFIDF();
 
     private ComparatorLogger comparisonLog;
 

@@ -1,4 +1,4 @@
-package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model;
+package de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.model;
 
 import de.uni_mannheim.informatik.dws.winter.model.Matchable;
 

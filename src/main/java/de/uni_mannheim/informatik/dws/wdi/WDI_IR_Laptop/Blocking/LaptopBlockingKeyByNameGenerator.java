@@ -1,6 +1,6 @@
-package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking;
+package de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.Blocking;
 
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Laptop;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.model.Laptop;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.generators.RecordBlockingKeyGenerator;
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;
 import de.uni_mannheim.informatik.dws.winter.model.Matchable;

@@ -1,13 +1,12 @@
-package de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution;
+package de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop;
 
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Blocking.LaptopBlockingKeyByNameGenerator;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.Comparators.*;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.Laptop;
-import de.uni_mannheim.informatik.dws.wdi.ExerciseIdentityResolution.model.LaptopXMLReader;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.Blocking.LaptopBlockingKeyByNameGenerator;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.Comparators.*;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.model.Laptop;
+import de.uni_mannheim.informatik.dws.wdi.WDI_IR_Laptop.model.LaptopXMLReader;
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEngine;
 import de.uni_mannheim.informatik.dws.winter.matching.MatchingEvaluator;
 import de.uni_mannheim.informatik.dws.winter.matching.algorithms.RuleLearner;
-import de.uni_mannheim.informatik.dws.winter.matching.blockers.NoBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.blockers.StandardRecordBlocker;
 import de.uni_mannheim.informatik.dws.winter.matching.rules.WekaMatchingRule;
 import de.uni_mannheim.informatik.dws.winter.model.Correspondence;
