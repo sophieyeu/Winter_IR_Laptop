@@ -1,5 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.uni_mannheim.informatik.dws.wdi</groupId>
@@ -27,6 +28,24 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<!-- Platform-dependent backend selection (netlib is default) -->
+	<profiles>
+		<profile>
+			<id>netlib</id>
+			<dependencies>
+				<dependency>
+					<groupId>org.nd4j</groupId>
+					<artifactId>nd4j-x86</artifactId>
+					<version>0.4-rc3.8</version>
+				</dependency>
+			</dependencies>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+		</profile>
+	</profiles>
+	<!-- end platform-dependent backend selection -->
 
 	<repositories>
 		<repository>
@@ -58,7 +77,83 @@
 			<artifactId>com.wcohen.secondstring</artifactId>
 			<version>0.1</version>
 		</dependency>
+		<dependency>
+			<groupId>com.github.vinhkhuc</groupId>
+			<artifactId>jfasttext</artifactId>
+			<version>0.4</version>
+		</dependency>
+		<!-- dl4j dependencies -->
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-core</artifactId>
+			<version>1.0.0-beta3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-ui_2.11</artifactId>
+			<version>1.0.0-beta3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-scaleout-api</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-scaleout-akka</artifactId>
+			<version>0.4-rc3.9</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-scaleout-zookeeper</artifactId>
+			<version>0.4.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.deeplearning4j</groupId>
+			<artifactId>deeplearning4j-nlp</artifactId>
+			<version>1.0.0-beta3</version>
+		</dependency>
+		<!-- end dl4j dependencies -->
+
+		<!-- nd4j dependencies -->
+		<!-- end nd4j dependencies -->
+
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-yaml</artifactId>
+			<version>2.9.7</version>
+		</dependency>
+
+		<dependency>
+			<groupId>net.java.openjfx.backport</groupId>
+			<artifactId>openjfx-78-backport</artifactId>
+			<version>1.8.0-ea-b96.1</version>
+		</dependency>
+
+		<!-- logging -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.7.13</version>
+		</dependency>
+		<!-- end logging -->
+
+		<!-- https://mvnrepository.com/artifact/org.datavec/datavec-api -->
+		<dependency>
+			<groupId>org.datavec</groupId>
+			<artifactId>datavec-api</artifactId>
+			<version>1.0.0-beta3</version>
+		</dependency>
+		<dependency>
+			<groupId>org.nd4j</groupId>
+			<artifactId>nd4j-x86</artifactId>
+			<version>0.4-rc3.8</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.maven.reporting</groupId>
+			<artifactId>maven-reporting-api</artifactId>
+			<version>2.2.1</version>
+		</dependency>
 	</dependencies>
-
-
 </project>
